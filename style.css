@@ -1,0 +1,19 @@
+#headStyle{
+    position: relative;
+    left: auto;
+
+}
+#menuSelection{
+    position: relative;
+    display: flex;
+
+    left: 250px;
+    bottom: 50px;
+}
+
+#menuSelection a{
+    color: green;
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: 2px;
+}
